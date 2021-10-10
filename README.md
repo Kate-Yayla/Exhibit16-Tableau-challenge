@@ -47,4 +47,4 @@ As mentioned above, the most popular station are the ones that close to the PATH
 
 It seems that CitiBike included more bikes in their fleet in May 2020 which are not seen in Jan 2020 data. So, newer bikes are more used ones as per trip duration on May 2020 data. The most used one in May is bike id#424477 with 946,311 second as trip duration. Bike ID 26K and 29K are most used bikes in Jan which were removed from May 2020 inventory. In visulation, we are not able to see any 26K and 29K bikes in May 2020. CitiBike added new bikes in May, bike IDs are 43K.   
 
-![Trip Duration by Bike ID](Images/TripdurationbyBike.png)
+![Trip Duration by Bike ID](Images/TripdurationbyBike.PNG)
