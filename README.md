@@ -1,6 +1,5 @@
 # Tableau - Citi Bike Analytics
 
-
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
 I have used two months data from [Citi Bike Data](https://www.citibikenyc.com/system-data). 
@@ -10,8 +9,7 @@ I have used two months data from [Citi Bike Data](https://www.citibikenyc.com/sy
 
 Here is my Tableau link: https://public.tableau.com/app/profile/kate.yayla/viz/TableauChallenge-JerseyCityJanandMay2020CitiBikeAnalysis/Story1?publish=yes
 
-
-###User Type
+### User Type
 
 I have discovered from my data, the number of users in Jan 2020 and May 2020 are same. I was expecting more biker in May 2020. I assume when Covid-19 started in March, it decreased the usage of bike and when it gets warmer in May, number of users increased again. But still total number of bikers are very similar for two months data. 
 
@@ -23,7 +21,6 @@ On the other hand, we can see more subscriber in Jan, more random customer type 
 When unspecified biker gets bigger, it lowers the male for the comparison between Jan and May data. Maybe less data available for customer, if they are not subscriber. If user just randomly rent the bike (which called customer), there would be no data available for gender classification. After Covid-19,number of subscribers cancelled their membership and used randomly, this might cause more unspecified user. 
 
 ![User Type](Images/UsedbyGender.png)
-
 
 ### User by Age and Gender
 
@@ -46,9 +43,8 @@ As mentioned above, the most popular station are the ones that close to the PATH
 * The most and least popular stations are in the map
 ![Station Mapping](Images/TheMostPopularandtheleastpopularstationonmap.png)
 
-
 ### Trip Duration by Bike ID 
 
 It seems that CitiBike included more bikes in their fleet in May 2020 which are not seen in Jan 2020 data. So, newer bikes are more used ones as per trip duration on May 2020 data. The most used one in May is bike id#424477 with 946,311 second as trip duration. Bike ID 26K and 29K are most used bikes in Jan which were removed from May 2020 inventory. In visulation, we are not able to see any 26K and 29K bikes in May 2020. CitiBike added new bikes in May, bike IDs are 43K.   
 
-![Station Mapping](Images/TripdurationbyBike.png)
+![Trip Duration by Bike ID](Images/TripdurationbyBike.png)
